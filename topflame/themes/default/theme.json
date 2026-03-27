@@ -1,0 +1,9 @@
+{
+  "type": "theme",
+  "name": "TopFlame Default",
+  "slug": "topflame-default",
+  "version": "1.0.0-foundation",
+  "target_version": "1.0.0-foundation",
+  "author": "TopFlame",
+  "description": "Default dark fantasy neon theme for the TopFlame foundation."
+}
